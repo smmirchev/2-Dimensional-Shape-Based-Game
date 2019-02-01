@@ -1,6 +1,6 @@
 ## 2-Dimensional-Shape-Based-Game
 
-The program is an originally designed game. The game is a maze in which the player has to find and step on the blue circle to win. There are red pie-shaped enemies which fly over the maze, when they collide with the player, the game is lost. The player can collect pink squares inside the maze which will reward the player with 10 scores. At the end of the game the player can enter their name and record the score or simply check his top 10 highest scores.
+The program is an originally designed game. The game is a maze in which the player has to find and step on the blue circle to win. There are red pie-shaped enemies which fly over the maze, when they collide with the player, the game is lost. The player can collect pink squares inside the maze which will reward the player with 10 scores. At the end of the game the player can enter their name and record the score or simply check their top 10 highest scores.
 
 <img src="https://raw.githubusercontent.com/smmirchev/2-Dimensional-Shape-Based-Game/master/Images/Game.png">
 
