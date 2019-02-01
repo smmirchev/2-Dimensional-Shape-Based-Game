@@ -1,0 +1,15 @@
+John 50
+John 40
+John 0
+John 20
+John 70
+John 80
+John 10
+John 30
+John 0
+John 0
+John 0
+Tom 20
+Tom 110
+Tom 0
+Jane 20
